@@ -1,0 +1,9 @@
+@use "./variables";
+@use "./app";
+@use "./card";
+@use "./cart";
+@use "./filter";
+$primary: #2b2b2b;
+body{
+  background-color: $primary;
+}
